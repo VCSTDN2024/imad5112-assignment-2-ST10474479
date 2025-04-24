@@ -18,7 +18,7 @@
         android:layout_marginBottom="200dp"
         android:textSize="35dp"
         android:textStyle="italic"
-        android:textColor="@color/orange"
+        android:textColor="@color/gold"
         android:textAlignment="center"
         android:text="Welcome To Tech Knowledge Quiz" />
 
@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="25dp"
-        android:textColor="@color/orange"
+        android:textColor="@color/gold"
         android:textStyle="italic"
         android:layout_marginBottom="200dp"
         android:text="Play to test your knowledge with these fun flashcards" />
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_marginEnd="10dp"
-            android:backgroundTint="@color/orange"
+            android:backgroundTint="@color/gold"
             android:text="Play"
             android:textColor="@color/black"
             android:textSize="23sp"
@@ -56,7 +56,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_marginStart="10dp"
-            android:backgroundTint="@color/orange"
+            android:backgroundTint="@color/gold"
             android:text="Exit"
             android:textColor="@color/black"
             android:textSize="23sp"

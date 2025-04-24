@@ -24,6 +24,7 @@
                 android:id="@+id/ReviewScore_textView"
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
+                android:textColor="@color/gold"
                 android:layout_margin="16dp"
                 android:textSize="18sp" />
 
@@ -32,7 +33,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
-                android:backgroundTint="@color/orange"
+                android:backgroundTint="@color/gold"
                 android:text="Restart"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -43,7 +44,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
-                android:backgroundTint="@color/orange"
+                android:backgroundTint="@color/gold"
                 android:text="Exit"
                 android:textStyle="bold"
                 android:textColor="@color/black"
