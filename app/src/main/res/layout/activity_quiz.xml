@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="25dp"
+    android:background="@drawable/open_screen"
     android:textAlignment="center"
     android:orientation="vertical"
     tools:context=".Quiz">
@@ -68,6 +69,7 @@
         android:layout_height="wrap_content"
         android:textSize="23dp"
         android:backgroundTint="@color/orange"
+        android:textStyle="bold"
         android:textColor="@color/black"
         android:text="Next" />
 
