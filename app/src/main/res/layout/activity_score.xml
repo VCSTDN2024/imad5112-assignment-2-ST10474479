@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".Score">
+
+    <TextView
+        android:id="@+id/Score_textView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="30dp"
+        android:textColor="@color/orange"
+        android:layout_marginBottom="100dp"
+        android:layout_margin="16dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Feedback_textView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="30dp"
+        android:layout_margin="16dp"
+        android:textColor="@color/orange"
+        android:layout_marginBottom="150dp"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="170dp"
+        android:layout_margin="9dp"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/Review_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="10dp"
+            android:backgroundTint="@color/orange"
+            android:text="Review"
+            android:textColor="@color/black"
+            android:textSize="23sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/Exit_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="10dp"
+            android:backgroundTint="@color/orange"
+            android:text="Exit"
+            android:textColor="@color/black"
+            android:textSize="23sp"
+            android:textStyle="italic" />
+
+</LinearLayout>
+</LinearLayout>
