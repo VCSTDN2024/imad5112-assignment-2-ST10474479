@@ -16,7 +16,7 @@
         android:id="@+id/Question_textView"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:textSize="30dp"
+        android:textSize="25dp"
         android:textColor="@color/gold"
         android:layout_marginBottom="90dp"
         android:text="" />
@@ -59,6 +59,7 @@
         android:id="@+id/Feedback_textView"
         android:layout_width="match_parent"
         android:layout_height="90dp"
+        android:textSize="25dp"
         android:layout_marginBottom="70dp"
         android:textColor="@color/gold"
         android:text="" />

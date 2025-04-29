@@ -23,34 +23,35 @@
             <TextView
                 android:id="@+id/ReviewScore_textView"
                 android:layout_width="match_parent"
-                android:layout_height="100dp"
+                android:layout_height="wrap_content"
                 android:textColor="@color/gold"
                 android:layout_margin="16dp"
                 android:textSize="18sp" />
 
-            <Button
-                android:id="@+id/Restart_btn"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="16dp"
-                android:backgroundTint="@color/gold"
-                android:text="Restart"
-                android:textColor="@color/black"
-                android:textStyle="bold"
-                android:textSize="25dp" />
-
-            <Button
-                android:id="@+id/Exit_btn"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="16dp"
-                android:backgroundTint="@color/gold"
-                android:text="Exit"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:textSize="25dp" />
+            
 
         </LinearLayout>
     </ScrollView>
+    <Button
+        android:id="@+id/Restart_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/gold"
+        android:text="Restart"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/Exit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/gold"
+        android:text="Exit"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="25dp" />
 
 </LinearLayout>

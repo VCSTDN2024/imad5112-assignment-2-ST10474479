@@ -23,7 +23,7 @@ class Score : AppCompatActivity() {
         val Exit_btn = findViewById<Button>(R.id.Exit_btn)
 
         val score = intent.getIntExtra("score", 0)
-        Score_textView.text = "Your score: $score/5"
+        Score_textView.text = "Your score: $score/6"
 
         val feedback = if (score >= 3){
             "Wow amazing job!"

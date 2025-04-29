@@ -11,11 +11,11 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 class Quiz : AppCompatActivity() {
-    private lateinit var Question_textView: TextView
-    private lateinit var true_btn: Button
-    private lateinit var false_btn: Button
-    private lateinit var next_btn: Button
-    private lateinit var Feedback_textView: Button
+    private lateinit var questionTextView: TextView
+    private lateinit var trueBtn: Button
+    private lateinit var falseBtn: Button
+    private lateinit var nextBtn: Button
+    private lateinit var feedbackTextView: TextView
 
     companion object{
         val questions = arrayOf(
@@ -36,50 +36,50 @@ class Quiz : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_quiz)
 
-        Question_textView = findViewById(R.id.Question_textView)
-        true_btn = findViewById(R.id.true_btn)
-        false_btn = findViewById(R.id.false_btn)
-        next_btn = findViewById(R.id.next_btn)
-        Feedback_textView = findViewById(R.id.Feedback_textView)
+        questionTextView = findViewById(R.id.Question_textView)
+        trueBtn = findViewById(R.id.true_btn)
+        falseBtn = findViewById(R.id.false_btn)
+        nextBtn = findViewById(R.id.next_btn)
+        feedbackTextView = findViewById(R.id.Feedback_textView)
 
         displayQuestion()
 
-        true_btn.setOnClickListener { checkAnswer(true) }
-        false_btn.setOnClickListener { checkAnswer(false) }
+        trueBtn.setOnClickListener { checkAnswer(true) }
+        falseBtn.setOnClickListener { checkAnswer(false) }
 
-        next_btn.setOnClickListener {
+        nextBtn.setOnClickListener {
             currentQuestionIndex ++
             if (currentQuestionIndex < questions.size){
                 displayQuestion()
-                Feedback_textView.text = ""
-                true_btn.isEnabled = true
-                false_btn.isEnabled = true
+                feedbackTextView.text = ""
+                trueBtn.isEnabled = true
+                falseBtn.isEnabled = true
             } else  {
-                val intent = Intent(this, score::class.java)
+                val intent = Intent(this, Score::class.java)
                 intent.putExtra("score", score)
                 startActivity(intent)
                 finish()
             }
         }
-        next_btn.isEnabled = false
+        nextBtn.isEnabled = false
     }
     private fun displayQuestion(){
-        Question_textView.text = questions[currentQuestionIndex]
+        questionTextView.text = questions[currentQuestionIndex]
 
     }
     private fun checkAnswer(userAnswer: Boolean){
         val correctAnswer = answers[currentQuestionIndex]
 
         if (userAnswer == correctAnswer){
-            Feedback_textView.text = "Correct"
-            Feedback_textView.setTextColor(Color.GREEN)
+            feedbackTextView.text = "Correct"
+            feedbackTextView.setTextColor(Color.GREEN)
             score ++
         } else {
-            Feedback_textView.text = "Incorrect"
-            Feedback_textView.setTextColor(Color.RED)
+            feedbackTextView.text = "Incorrect"
+            feedbackTextView.setTextColor(Color.RED)
         }
-        true_btn.isEnabled = false
-        false_btn.isEnabled = false
-        next_btn.isEnabled = true
+        trueBtn.isEnabled = false
+        falseBtn.isEnabled = false
+        nextBtn.isEnabled = true
     }
 }
