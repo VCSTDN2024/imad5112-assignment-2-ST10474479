@@ -1,0 +1,116 @@
+
+### **README for IMAD Assignment 2**
+
+
+1. Basic Information
+
+# Tech General Knowledge Quiz
+- **Developer**: Bianca Thabisile Khumalo
+- **Student Number**:ST10474479
+- **Group**: Group 1
+- **Course**: HAW
+- **Subject**:IMAD5112
+
+## Links
+- **GitHub Repository**https://github.com/VCSTDN2024/imad5112-assignment-2-ST10474479.git
+- **YouTube Video**: 
+
+2. Project Overview
+
+## Project Overview
+
+The **Tech General Knowledge Quiz** is a mobile application developed as part of an assignment in the IMAD module. This application was created using the **Kotlin** programming language through the application software **Android Studio**. 
+The apps primary purpose is to test a users knowledge on basic technology questions that everyone should know
+
+The app was developed to meet the requirements of the assignment, that includes creating a operating mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
+
+3. App Purpose and Features
+
+## Purpose and Features
+
+### Purpose:
+The main purpose of the app is to test ones knowledge on tech questions that are very basic and to enhance if one if not to sure of their knowledge. At the end of the quiz user has access to redo the quiz if they are not satisfied with they result.
+
+### Key Features:
+- Features: Play Button; Allows the user to start the quiz game 
+- Features: True or False Buttons to allow the user to chose weather the answer is true or false based on the question that appears
+- Features: Exit button to exit the program once the user is done playing the quiz
+- Features: Restart Button to restart the game 
+  
+These features aim to provide a simple easy user friendly interface and very easy for managing tasks.
+
+
+4. Design Considerations
+
+## Design Considerations
+
+The design of the **Bees Meal Plan** was based on the following key considerations:
+
+1. **User Experience**: The app was designed with the goal of providing an easy-to-navigate user interface and color friendly, ensuring an enjoyable user experience.
+   
+2. **Responsiveness**: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility.
+   
+3. **Effectiveness**: The design is simple, focusing on core features without overwhelming the user.
+   
+4. **High Performance**: Code upgrade was considered to ensure fast response times and low battery usage.
+
+
+5. GitHub and GitHub Actions Utilization
+
+## GitHub and GitHub Actions
+
+This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
+
+### GitHub Actions:
+I utilized **GitHub Actions** to automate the build and deployment process. This includes:
+
+- Running automated **tests** to ensure the app’s functionality.
+- Compiling the app into **APK** and **AAB** files, which are the formats required for distribution.
+- Uploading these build artifacts to GitHub for easy access.
+
+The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
+
+6. Screenshots and App Demo
+
+## Screenshots
+
+### App Screenshots:
+
+
+### Video Demo:
+A video showcasing the app's functionality can be viewed here:
+
+7. Challenges and Learnings
+
+## Challenges and Learnings
+
+During the development of this project, I encountered several challenges, including:
+
+1. **Challenge 1**: Had difficulty adjusting the appropriate color scheme for the background
+   - **Solution**: I watched a video on Youtube show casing how i can have effective color for the background so that the results can appear and that the questions can appear
+   
+2. **Challenge 2**: Issue with my code running
+   - **Solution**: I had to relook at my code line for line to see what is missing and found open loops
+
+From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
+
+8. Future Enhancements
+
+## Future Enhancements
+
+While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
+
+1. **Feature 1**: Add more questions to the quiz to make the user have more of an idea on the basic tech knowledge questions
+2. **Feature 2**: Adding a sign in page so the users information is saved and is secure and safe to use the app
+3. **Feature 3**: More professional like open page
+
+These enhancements would improve the app’s usability and make it even more versatile for every user.
+
+9. References
+
+## References
+
+## List of Figures
+
+- **Figure 1**
+
