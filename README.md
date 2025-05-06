@@ -66,8 +66,18 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ## Screenshots
 
-
 ### App Screenshots:
+![image](https://github.com/user-attachments/assets/c174f793-2b6c-441e-80d0-98b665ddd4c2)
+
+![image](https://github.com/user-attachments/assets/c67e2d5c-afde-4362-ac4b-f55dd54758d7)
+
+![image](https://github.com/user-attachments/assets/e33cb4fd-01c5-451b-a41b-b37e06eaf9f8)
+
+![image](https://github.com/user-attachments/assets/2d378c9c-889c-4cab-9454-c97fc8c62024)
+
+![image](https://github.com/user-attachments/assets/67367096-ec00-43f3-90a1-e459186ce68a)
+
+![image](https://github.com/user-attachments/assets/49159418-f269-4bb7-b590-ccd9377a5c49)
 
 
 ### Video Demo:
