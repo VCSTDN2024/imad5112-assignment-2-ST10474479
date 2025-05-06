@@ -2,7 +2,6 @@
 ### **README for IMAD Assignment 2**
 
 
-1. Basic Information
 
 # Tech General Knowledge Quiz
 - **Developer**: Bianca Thabisile Khumalo
@@ -15,7 +14,6 @@
 - **GitHub Repository**https://github.com/VCSTDN2024/imad5112-assignment-2-ST10474479.git
 - **YouTube Video**: 
 
-2. Project Overview
 
 ## Project Overview
 
@@ -24,9 +22,8 @@ The apps primary purpose is to test a users knowledge on basic technology questi
 
 The app was developed to meet the requirements of the assignment, that includes creating a operating mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
-3. App Purpose and Features
 
-## Purpose and Features
+## App Purpose and Features
 
 ### Purpose:
 The main purpose of the app is to test ones knowledge on tech questions that are very basic and to enhance if one if not to sure of their knowledge. At the end of the quiz user has access to redo the quiz if they are not satisfied with they result.
@@ -39,8 +36,6 @@ The main purpose of the app is to test ones knowledge on tech questions that are
   
 These features aim to provide a simple easy user friendly interface and very easy for managing tasks.
 
-
-4. Design Considerations
 
 ## Design Considerations
 
@@ -55,9 +50,7 @@ The design of the **Bees Meal Plan** was based on the following key consideratio
 4. **High Performance**: Code upgrade was considered to ensure fast response times and low battery usage.
 
 
-5. GitHub and GitHub Actions Utilization
-
-## GitHub and GitHub Actions
+## GitHub and GitHub Actions Utilization
 
 This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
 
@@ -70,17 +63,15 @@ I utilized **GitHub Actions** to automate the build and deployment process. This
 
 The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
 
-6. Screenshots and App Demo
 
 ## Screenshots
+
 
 ### App Screenshots:
 
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here:
-
-7. Challenges and Learnings
 
 ## Challenges and Learnings
 
@@ -94,7 +85,6 @@ During the development of this project, I encountered several challenges, includ
 
 From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
 
-8. Future Enhancements
 
 ## Future Enhancements
 
@@ -106,7 +96,6 @@ While the current version of the app provides the core functionality, there are 
 
 These enhancements would improve the app’s usability and make it even more versatile for every user.
 
-9. References
 
 ## References
 
