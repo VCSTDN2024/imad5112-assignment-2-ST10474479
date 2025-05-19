@@ -68,26 +68,26 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ### App Screenshots:
 ![image](https://github.com/user-attachments/assets/c174f793-2b6c-441e-80d0-98b665ddd4c2)
-*Caption for screenshot 1: []*
+*Caption for screenshot 1: [Open screen]*
 
 ![image](https://github.com/user-attachments/assets/c67e2d5c-afde-4362-ac4b-f55dd54758d7)
-*Caption for screenshot 2: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 2: [Quiz page where questions will be displayed and true or false buttons where users are able to chose the answer]*
 
 
 ![image](https://github.com/user-attachments/assets/e33cb4fd-01c5-451b-a41b-b37e06eaf9f8)
-*Caption for screenshot 3: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 3: [Message displayed if the answer is incorrect]*
 
 
 ![image](https://github.com/user-attachments/assets/2d378c9c-889c-4cab-9454-c97fc8c62024)
-*Caption for screenshot 4: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 4: [Message displayed if the answer is correct]*
 
 
 ![image](https://github.com/user-attachments/assets/67367096-ec00-43f3-90a1-e459186ce68a)
-*Caption for screenshot 5: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 5: [Score page able to see how much a user got for the quiz]*
 
 
 ![image](https://github.com/user-attachments/assets/49159418-f269-4bb7-b590-ccd9377a5c49)
-*Caption for screenshot 6: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 6: [Review page whereby the user is able to reviw the quiz questions and try again]*
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: https://youtu.be/VqBmzR5h3D4?si=DT2HH1eiw9QJxr-U
