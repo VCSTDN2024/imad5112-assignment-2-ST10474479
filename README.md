@@ -12,7 +12,7 @@
 
 ## Links
 - **GitHub Repository**https://github.com/VCSTDN2024/imad5112-assignment-2-ST10474479.git
-- **YouTube Video**: 
+- **YouTube Video**: https://youtu.be/VqBmzR5h3D4?si=DT2HH1eiw9QJxr-U
 
 
 ## Project Overview
@@ -71,26 +71,26 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot 1: []*
 
 ![image](https://github.com/user-attachments/assets/c67e2d5c-afde-4362-ac4b-f55dd54758d7)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 2: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 
 ![image](https://github.com/user-attachments/assets/e33cb4fd-01c5-451b-a41b-b37e06eaf9f8)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 3: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 
 ![image](https://github.com/user-attachments/assets/2d378c9c-889c-4cab-9454-c97fc8c62024)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 4: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 
 ![image](https://github.com/user-attachments/assets/67367096-ec00-43f3-90a1-e459186ce68a)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 5: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 
 ![image](https://github.com/user-attachments/assets/49159418-f269-4bb7-b590-ccd9377a5c49)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 6: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here:
+A video showcasing the app's functionality can be viewed here: https://youtu.be/VqBmzR5h3D4?si=DT2HH1eiw9QJxr-U
 
 ## Challenges and Learnings
 
@@ -123,5 +123,10 @@ Youtu.be. (2025b). Available at: https://youtu.be/_u8zA1CxxV4?si=9v08UNHAig2-e8I
 
 ## List of Figures
 
-- **Figure 1**
+- **Figure 1** ![image](https://github.com/user-attachments/assets/c174f793-2b6c-441e-80d0-98b665ddd4c2)
+- **Figure 2** ![image](https://github.com/user-attachments/assets/c67e2d5c-afde-4362-ac4b-f55dd54758d7)
+- **Figure 3** ![image](https://github.com/user-attachments/assets/e33cb4fd-01c5-451b-a41b-b37e06eaf9f8)
+- **Figure 4** ![image](https://github.com/user-attachments/assets/2d378c9c-889c-4cab-9454-c97fc8c62024)
+- **Figure 5** ![image](https://github.com/user-attachments/assets/67367096-ec00-43f3-90a1-e459186ce68a)
+- **Figure 6** ![image](https://github.com/user-attachments/assets/49159418-f269-4bb7-b590-ccd9377a5c49)
 
