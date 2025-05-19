@@ -1,8 +1,6 @@
 
 ### **README for IMAD Assignment 2**
 
-
-
 # Tech General Knowledge Quiz
 - **Developer**: Bianca Thabisile Khumalo
 - **Student Number**:ST10474479
