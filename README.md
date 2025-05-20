@@ -1,4 +1,3 @@
-
 ### **README for IMAD Assignment 2**
 
 # Tech General Knowledge Quiz
