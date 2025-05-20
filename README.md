@@ -11,7 +11,6 @@
 - **GitHub Repository**https://github.com/VCSTDN2024/imad5112-assignment-2-ST10474479.git
 - **YouTube Video**: https://youtu.be/VqBmzR5h3D4?si=DT2HH1eiw9QJxr-U
 
-
 ## Project Overview
 
 The **Tech General Knowledge Quiz** is a mobile application developed as part of an assignment in the IMAD module. This application was created using the **Kotlin** programming language through the application software **Android Studio**. 
